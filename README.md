@@ -1,4 +1,4 @@
-# platzimusic
+# VueJsExample
 
 > A Vue.js project
 
